@@ -1,0 +1,23 @@
+
+
+.bg-Security{
+    background-image: url(./images/securityImg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-primary{
+    background-color: blueviolet!important;
+    border-color: blueviolet!important;
+}
+
+.rounded-start-lg{ 
+    border-bottom-left-radius: 1.375rem !important;
+    border-top-left-radius: 1.375rem  !important;
+}
+
+.rounded-end-lg{ 
+    border-bottom-right-radius: 1.375rem !important;
+    border-top-right-radius: 1.375rem  !important;
+}
